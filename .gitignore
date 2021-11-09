@@ -1,0 +1,10 @@
+# Project file configuration
+.vscode/
+.env
+
+# Project environment
+Pipfile
+Pipfile.lock
+
+# Database file
+db.sqlite3
